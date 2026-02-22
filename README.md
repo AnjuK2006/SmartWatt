@@ -37,12 +37,12 @@ SmartWatt Dashboard is a full-stack energy monitoring system for households. It 
 git clone https://github.com/yourusername/smartwatt-dashboard.git
 cd smartwatt-dashboard
 
-Setup Backend:
+2.Setup Backend:
 cd backend
 npm install
 node server.js
 
-Setup Frontend:
+3.Setup Frontend:
 cd ../frontend
 npm install
 npm start
@@ -53,27 +53,27 @@ python energy_prediction.py 5,6,7,6,8,9
 
 Make sure Python and required packages are installed.
 
-Usage
+## Usage
 Open dashboard in browser (http://localhost:3000)
 Login with your credentials
 View energy stats: Energy Used, Cost, Carbon, Predicted Energy & Cost
 Set energy threshold to get alerts
 Filter data by Today, Month, or Year
 
-Future Enhancements
+## Future Enhancements
 Connect real IoT devices for live data
 SMS or email notifications for high energy usage
 Add more appliances with detailed readings
 Interactive charts and graphs
 
-Folder Structure
+## Folder Structure
 smartwatt-dashboard/
 ├─ backend/          # Node.js server, APIs, Python ML script
 ├─ frontend/         # React app
 ├─ screenshots/      # Images for README
 └─ README.md
 
-License
+## License
 MIT License
 ---
 This version is **perfect for a fresher’s GitHub repo**: clear, professional, and easy to read.  
