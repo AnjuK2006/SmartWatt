@@ -61,15 +61,12 @@ Set energy threshold to get alerts
 Filter data by Today, Month, or Year
 
 Future Enhancements
-
 Connect real IoT devices for live data
 SMS or email notifications for high energy usage
 Add more appliances with detailed readings
 Interactive charts and graphs
 
 Folder Structure
-
-
 smartwatt-dashboard/
 ├─ backend/          # Node.js server, APIs, Python ML script
 ├─ frontend/         # React app
@@ -77,8 +74,6 @@ smartwatt-dashboard/
 └─ README.md
 
 License
-
-
 MIT License
 ---
 This version is **perfect for a fresher’s GitHub repo**: clear, professional, and easy to read.  
