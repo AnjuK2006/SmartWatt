@@ -12,7 +12,7 @@ SmartWatt Dashboard is a full-stack energy monitoring system for households. It 
 ![SmartWatt Dashboard](sample_output.png)
 
 
-## ✨ Features
+##  Features
 
 - Monitor real-time energy usage (kWh)
 - Dynamic threshold & alerts for high energy usage
@@ -22,9 +22,7 @@ SmartWatt Dashboard is a full-stack energy monitoring system for households. It 
 - User login and registration
 - Filter data by Today, Month, or Year
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, Bootstrap  
 - **Backend:** Node.js, Express.js  
@@ -32,9 +30,7 @@ SmartWatt Dashboard is a full-stack energy monitoring system for households. It 
 - **Machine Learning:** Python (Linear Regression)  
 - **Security:** JWT, bcrypt
 
----
-
-## ⚡ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
