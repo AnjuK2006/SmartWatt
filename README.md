@@ -6,7 +6,7 @@ SmartWatt Dashboard is a full-stack energy monitoring system for households. It 
 ![SmartWatt Dashboard](sample_output(2).png)
 
 **High Usage Alert**  
-![Alert Screenshot](sample_output(2).png)
+![Alert Screenshot](sample_output(1).png)
 
 **Predicted Energy & Cost**  
 ![SmartWatt Dashboard](sample_output.png)
